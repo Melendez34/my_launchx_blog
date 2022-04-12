@@ -2,6 +2,8 @@
 
 ## My Launch X Blog: Bitácora de Viaje 🚀
 
+[link del blog] https://melendez34.github.io/my_launchx_blog/
+
 Hola explorer 👋 
 
 Realiza las indicaciones de la weekly mission y monta tu propio blog. Espero que te sirva como bitácora de aprendizaje para compartir todas tus experiencias de Launch X. 
