@@ -6,7 +6,19 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Omar Melendez Lopez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://melendez34.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Apr 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://melendez34.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mis expectativas</title>
+      <link>https://melendez34.github.io/my_launchx_blog/posts/intro/</link>
+      <pubDate>Mon, 11 Apr 2022 18:16:21 -0600</pubDate>
+      
+      <guid>https://melendez34.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>Aqui un resumen de lo que conozco y busco mejorar en este curso:
+lo que conozco:
+Editores de texto Git y github Terminal de linux Formatos basicos en markdown uso base de Nodejs Espero aprender:
+Mejorar en mi uso de comandos git Ampliar/mejorar mi forma de documentar en Markdown trucos y consejos en linux asi como nuevos comandos uso avanzado de Nodejs</description>
+    </item>
+    
     <item>
       <title>Stash estelar</title>
       <link>https://melendez34.github.io/my_launchx_blog/posts/post_1/</link>
@@ -15,15 +27,6 @@
       <guid>https://melendez34.github.io/my_launchx_blog/posts/post_1/</guid>
       <description>Creo que ahora que estamos empezando todos con git nos damos cuenta que cuando tenemos modificaciones y estamos practicando, nos damos cuenta que necesitamos cambiar de rama.
 Pero tenemos tenemos cambios en nuestra rama actual que no sabemos si los queremos mandar a commit, necesitamos de forma rapida revisar otra rama, sin dejar rastro de nuestros cambios por el momento, es aqui donde hacemos uso de stash, despues de conocer los cambios con git status, hacemos git add de los archivos modidicados, y entonces reservamos estas modificaciones haciendo &amp;ldquo;git stash&amp;rdquo;.</description>
-    </item>
-    
-    <item>
-      <title>Mis expectativas</title>
-      <link>https://melendez34.github.io/my_launchx_blog/posts/intro/</link>
-      <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
-      
-      <guid>https://melendez34.github.io/my_launchx_blog/posts/intro/</guid>
-      <description>Usa este post para anotar tus expectativas de la misión.</description>
     </item>
     
     <item>
