@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://melendez34.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Stash estelar</title>
+      <link>https://melendez34.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://melendez34.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Creo que ahora que estamos empezando todos con git nos damos cuenta que cuando tenemos modificaciones y estamos practicando, nos damos cuenta que necesitamos cambiar de rama.
+Pero tenemos tenemos cambios en nuestra rama actual que no sabemos si los queremos mandar a commit, necesitamos de forma rapida revisar otra rama, sin dejar rastro de nuestros cambios por el momento, es aqui donde hacemos uso de stash, despues de conocer los cambios con git status, hacemos git add de los archivos modidicados, y entonces reservamos estas modificaciones haciendo &amp;ldquo;git stash&amp;rdquo;.</description>
+    </item>
+    
+    <item>
       <title>Mis expectativas</title>
       <link>https://melendez34.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
